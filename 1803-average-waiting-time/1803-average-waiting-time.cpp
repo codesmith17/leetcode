@@ -12,7 +12,6 @@ public:
             }
             waitTime += customers[i][1];
             startTime += customers[i][1];
-            cout << waitTime << endl;
         }
         return waitTime * 1.0 / n;
     }
