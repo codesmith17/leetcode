@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/codesmith17/leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/codesmith17/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/codesmith17/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/codesmith17/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/codesmith17/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Math
 |  |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1803-average-waiting-time](https://github.com/codesmith17/leetcode/tree/master/1803-average-waiting-time) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/codesmith17/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/codesmith17/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/codesmith17/leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/codesmith17/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/codesmith17/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/codesmith17/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Two Pointers
 |  |
 | ------- |
