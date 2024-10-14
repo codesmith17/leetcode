@@ -5,11 +5,11 @@ public:
         for (int i = 0; i < k; i++) {
             int temp = pq.top();
             pq.pop();
-            pq.push(temp - (temp / 2));
+            pq.push(temp - floor(temp / 2.0));
         }
 
         int ans = 0;
-        while (!pq.empty()) {
+        while (pq.size()) {
             ans += pq.top();
             pq.pop();
         }
