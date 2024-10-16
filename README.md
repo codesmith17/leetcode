@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0720-longest-word-in-dictionary](https://github.com/codesmith17/leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [1304-longest-happy-string](https://github.com/codesmith17/leetcode/tree/master/1304-longest-happy-string) |
 | [3195-separate-black-and-white-balls](https://github.com/codesmith17/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Trie
 |  |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/codesmith17/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1304-longest-happy-string](https://github.com/codesmith17/leetcode/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/codesmith17/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/codesmith17/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/codesmith17/leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/codesmith17/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1304-longest-happy-string](https://github.com/codesmith17/leetcode/tree/master/1304-longest-happy-string) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/codesmith17/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/codesmith17/leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/codesmith17/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
