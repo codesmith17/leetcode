@@ -10,7 +10,6 @@ public:
         while (pq.size()) {
             auto [count, ch] = pq.top();
             pq.pop();
-            
             int n = res.size();
             if (n >= 2 and res[n-1] == ch and res[n-2] == ch) {
                 if (pq.empty()) break;
