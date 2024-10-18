@@ -23,8 +23,7 @@ public:
         recursion(nums, ds, 0, nums.size(), maxOR, res);
         int cnt = 0;
         for (auto it : res) 
-            if (it == maxOR)
-                cnt++;
+            cnt += it == maxOR;
         
         return cnt;
     }
