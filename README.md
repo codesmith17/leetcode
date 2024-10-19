@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/codesmith17/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1803-average-waiting-time](https://github.com/codesmith17/leetcode/tree/master/1803-average-waiting-time) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/codesmith17/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/codesmith17/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0720-longest-word-in-dictionary](https://github.com/codesmith17/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1304-longest-happy-string](https://github.com/codesmith17/leetcode/tree/master/1304-longest-happy-string) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/codesmith17/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3195-separate-black-and-white-balls](https://github.com/codesmith17/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Trie
 |  |
@@ -113,4 +115,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/codesmith17/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Recursion
+|  |
+| ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/codesmith17/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
