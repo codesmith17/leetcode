@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/codesmith17/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2169-simple-bank-system](https://github.com/codesmith17/leetcode/tree/master/2169-simple-bank-system) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/codesmith17/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/codesmith17/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/codesmith17/leetcode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 ## String
 |  |
@@ -138,4 +139,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/codesmith17/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+## Tree
+|  |
+| ------- |
+| [2677-cousins-in-binary-tree-ii](https://github.com/codesmith17/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [2677-cousins-in-binary-tree-ii](https://github.com/codesmith17/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2677-cousins-in-binary-tree-ii](https://github.com/codesmith17/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [2677-cousins-in-binary-tree-ii](https://github.com/codesmith17/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 <!---LeetCode Topics End-->
