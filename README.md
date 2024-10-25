@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0720-longest-word-in-dictionary](https://github.com/codesmith17/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0964-minimize-malware-spread-ii](https://github.com/codesmith17/leetcode/tree/master/0964-minimize-malware-spread-ii) |
 | [1002-maximum-width-ramp](https://github.com/codesmith17/leetcode/tree/master/1002-maximum-width-ramp) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/codesmith17/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/codesmith17/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1803-average-waiting-time](https://github.com/codesmith17/leetcode/tree/master/1803-average-waiting-time) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/codesmith17/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -54,12 +55,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0720-longest-word-in-dictionary](https://github.com/codesmith17/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1197-parsing-a-boolean-expression](https://github.com/codesmith17/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/codesmith17/leetcode/tree/master/1304-longest-happy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/codesmith17/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/codesmith17/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3195-separate-black-and-white-balls](https://github.com/codesmith17/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Trie
 |  |
 | ------- |
 | [0720-longest-word-in-dictionary](https://github.com/codesmith17/leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/codesmith17/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Sorting
 |  |
 | ------- |
@@ -151,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0964-minimize-malware-spread-ii](https://github.com/codesmith17/leetcode/tree/master/0964-minimize-malware-spread-ii) |
 | [0988-flip-equivalent-binary-trees](https://github.com/codesmith17/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/codesmith17/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/codesmith17/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
