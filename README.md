@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/codesmith17/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/codesmith17/leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/codesmith17/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/codesmith17/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/codesmith17/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/codesmith17/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/codesmith17/leetcode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/codesmith17/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/codesmith17/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/codesmith17/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
 |  |
@@ -155,16 +157,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0964-minimize-malware-spread-ii](https://github.com/codesmith17/leetcode/tree/master/0964-minimize-malware-spread-ii) |
 | [0988-flip-equivalent-binary-trees](https://github.com/codesmith17/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/codesmith17/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/codesmith17/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/codesmith17/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0964-minimize-malware-spread-ii](https://github.com/codesmith17/leetcode/tree/master/0964-minimize-malware-spread-ii) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/codesmith17/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/codesmith17/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/codesmith17/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/codesmith17/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/codesmith17/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Union Find
 |  |
