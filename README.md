@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0964-minimize-malware-spread-ii](https://github.com/codesmith17/leetcode/tree/master/0964-minimize-malware-spread-ii) |
 | [1002-maximum-width-ramp](https://github.com/codesmith17/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/codesmith17/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/codesmith17/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/codesmith17/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1803-average-waiting-time](https://github.com/codesmith17/leetcode/tree/master/1803-average-waiting-time) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/codesmith17/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -179,4 +180,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0964-minimize-malware-spread-ii](https://github.com/codesmith17/leetcode/tree/master/0964-minimize-malware-spread-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/codesmith17/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+## Matrix
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/codesmith17/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
