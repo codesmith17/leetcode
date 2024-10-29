@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0500-keyboard-row](https://github.com/codesmith17/leetcode/tree/master/0500-keyboard-row) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/codesmith17/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0720-longest-word-in-dictionary](https://github.com/codesmith17/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0964-minimize-malware-spread-ii](https://github.com/codesmith17/leetcode/tree/master/0964-minimize-malware-spread-ii) |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0500-keyboard-row](https://github.com/codesmith17/leetcode/tree/master/0500-keyboard-row) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/codesmith17/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0720-longest-word-in-dictionary](https://github.com/codesmith17/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0964-minimize-malware-spread-ii](https://github.com/codesmith17/leetcode/tree/master/0964-minimize-malware-spread-ii) |
@@ -58,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0500-keyboard-row](https://github.com/codesmith17/leetcode/tree/master/0500-keyboard-row) |
 | [0720-longest-word-in-dictionary](https://github.com/codesmith17/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1197-parsing-a-boolean-expression](https://github.com/codesmith17/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/codesmith17/leetcode/tree/master/1304-longest-happy-string) |
