@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2169-simple-bank-system](https://github.com/codesmith17/leetcode/tree/master/2169-simple-bank-system) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/codesmith17/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/codesmith17/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/codesmith17/leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/codesmith17/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/codesmith17/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3195-separate-black-and-white-balls](https://github.com/codesmith17/leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/codesmith17/leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Trie
 |  |
 | ------- |
