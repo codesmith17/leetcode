@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2094-remove-stones-to-minimize-the-total](https://github.com/codesmith17/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2169-simple-bank-system](https://github.com/codesmith17/leetcode/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/codesmith17/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/codesmith17/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/codesmith17/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/codesmith17/leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/codesmith17/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/codesmith17/leetcode/tree/master/0670-maximum-swap) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/codesmith17/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/codesmith17/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/codesmith17/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Simulation
@@ -67,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1304-longest-happy-string](https://github.com/codesmith17/leetcode/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/codesmith17/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/codesmith17/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/codesmith17/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3195-separate-black-and-white-balls](https://github.com/codesmith17/leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/codesmith17/leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Trie
@@ -202,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/codesmith17/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/codesmith17/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/codesmith17/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Binary Search
 |  |
