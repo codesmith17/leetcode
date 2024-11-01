@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0500-keyboard-row](https://github.com/codesmith17/leetcode/tree/master/0500-keyboard-row) |
 | [0720-longest-word-in-dictionary](https://github.com/codesmith17/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1197-parsing-a-boolean-expression](https://github.com/codesmith17/leetcode/tree/master/1197-parsing-a-boolean-expression) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/codesmith17/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/codesmith17/leetcode/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/codesmith17/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/codesmith17/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
