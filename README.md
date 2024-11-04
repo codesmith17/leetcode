@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/codesmith17/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/codesmith17/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3195-separate-black-and-white-balls](https://github.com/codesmith17/leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3451-string-compression-iii](https://github.com/codesmith17/leetcode/tree/master/3451-string-compression-iii) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/codesmith17/leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Trie
 |  |
