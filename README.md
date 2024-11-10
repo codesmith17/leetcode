@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2692-take-gifts-from-the-richest-pile](https://github.com/codesmith17/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/codesmith17/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/codesmith17/leetcode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/codesmith17/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/codesmith17/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Math
 |  |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/codesmith17/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2275-find-substring-with-given-hash-value](https://github.com/codesmith17/leetcode/tree/master/2275-find-substring-with-given-hash-value) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/codesmith17/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/codesmith17/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/codesmith17/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2509-minimize-xor](https://github.com/codesmith17/leetcode/tree/master/2509-minimize-xor) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/codesmith17/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Enumeration
 |  |
 | ------- |
