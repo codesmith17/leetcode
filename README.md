@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0670-maximum-swap](https://github.com/codesmith17/leetcode/tree/master/0670-maximum-swap) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/codesmith17/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/codesmith17/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/codesmith17/leetcode/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/codesmith17/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Simulation
 |  |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/codesmith17/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/codesmith17/leetcode/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/codesmith17/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/codesmith17/leetcode/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/codesmith17/leetcode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 | [3195-separate-black-and-white-balls](https://github.com/codesmith17/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Prefix Sum
