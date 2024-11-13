@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/codesmith17/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/codesmith17/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/codesmith17/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/codesmith17/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2169-simple-bank-system](https://github.com/codesmith17/leetcode/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/codesmith17/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/codesmith17/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0964-minimize-malware-spread-ii](https://github.com/codesmith17/leetcode/tree/master/0964-minimize-malware-spread-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/codesmith17/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/codesmith17/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/codesmith17/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2169-simple-bank-system](https://github.com/codesmith17/leetcode/tree/master/2169-simple-bank-system) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/codesmith17/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/codesmith17/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/codesmith17/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/codesmith17/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/codesmith17/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Tree
