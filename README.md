@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/codesmith17/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0500-keyboard-row](https://github.com/codesmith17/leetcode/tree/master/0500-keyboard-row) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/codesmith17/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0720-longest-word-in-dictionary](https://github.com/codesmith17/leetcode/tree/master/0720-longest-word-in-dictionary) |
@@ -62,6 +63,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/codesmith17/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0500-keyboard-row](https://github.com/codesmith17/leetcode/tree/master/0500-keyboard-row) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/codesmith17/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0720-longest-word-in-dictionary](https://github.com/codesmith17/leetcode/tree/master/0720-longest-word-in-dictionary) |
@@ -164,6 +166,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/codesmith17/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/codesmith17/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1755-defuse-the-bomb](https://github.com/codesmith17/leetcode/tree/master/1755-defuse-the-bomb) |
 | [2275-find-substring-with-given-hash-value](https://github.com/codesmith17/leetcode/tree/master/2275-find-substring-with-given-hash-value) |
