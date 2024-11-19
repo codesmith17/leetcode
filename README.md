@@ -47,6 +47,7 @@
 | [0670-maximum-swap](https://github.com/codesmith17/leetcode/tree/master/0670-maximum-swap) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/codesmith17/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/codesmith17/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2605-count-anagrams](https://github.com/codesmith17/leetcode/tree/master/2605-count-anagrams) |
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/codesmith17/leetcode/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/codesmith17/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Simulation
@@ -73,6 +74,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/codesmith17/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/codesmith17/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/codesmith17/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2605-count-anagrams](https://github.com/codesmith17/leetcode/tree/master/2605-count-anagrams) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/codesmith17/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/codesmith17/leetcode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 ## String
@@ -89,6 +91,7 @@
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/codesmith17/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/codesmith17/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2275-find-substring-with-given-hash-value](https://github.com/codesmith17/leetcode/tree/master/2275-find-substring-with-given-hash-value) |
+| [2605-count-anagrams](https://github.com/codesmith17/leetcode/tree/master/2605-count-anagrams) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/codesmith17/leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/codesmith17/leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3451-string-compression-iii](https://github.com/codesmith17/leetcode/tree/master/3451-string-compression-iii) |
@@ -199,6 +202,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/codesmith17/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/codesmith17/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/codesmith17/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2605-count-anagrams](https://github.com/codesmith17/leetcode/tree/master/2605-count-anagrams) |
 ## Tree
 |  |
 | ------- |
@@ -270,4 +274,8 @@
 |  |
 | ------- |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/codesmith17/leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+## Combinatorics
+|  |
+| ------- |
+| [2605-count-anagrams](https://github.com/codesmith17/leetcode/tree/master/2605-count-anagrams) |
 <!---LeetCode Topics End-->
