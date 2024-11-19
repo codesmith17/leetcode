@@ -31,6 +31,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/codesmith17/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/codesmith17/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/codesmith17/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/codesmith17/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/codesmith17/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/codesmith17/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/codesmith17/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -70,6 +71,7 @@
 | [2169-simple-bank-system](https://github.com/codesmith17/leetcode/tree/master/2169-simple-bank-system) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/codesmith17/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/codesmith17/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/codesmith17/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/codesmith17/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/codesmith17/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/codesmith17/leetcode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
@@ -162,6 +164,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/codesmith17/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1755-defuse-the-bomb](https://github.com/codesmith17/leetcode/tree/master/1755-defuse-the-bomb) |
 | [2275-find-substring-with-given-hash-value](https://github.com/codesmith17/leetcode/tree/master/2275-find-substring-with-given-hash-value) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/codesmith17/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/codesmith17/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/codesmith17/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Backtracking
