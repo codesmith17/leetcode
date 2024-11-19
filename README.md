@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/codesmith17/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/codesmith17/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0500-keyboard-row](https://github.com/codesmith17/leetcode/tree/master/0500-keyboard-row) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/codesmith17/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0720-longest-word-in-dictionary](https://github.com/codesmith17/leetcode/tree/master/0720-longest-word-in-dictionary) |
@@ -106,6 +107,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/codesmith17/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/codesmith17/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0720-longest-word-in-dictionary](https://github.com/codesmith17/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/codesmith17/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -167,6 +169,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/codesmith17/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/codesmith17/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/codesmith17/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1755-defuse-the-bomb](https://github.com/codesmith17/leetcode/tree/master/1755-defuse-the-bomb) |
 | [2275-find-substring-with-given-hash-value](https://github.com/codesmith17/leetcode/tree/master/2275-find-substring-with-given-hash-value) |
@@ -281,4 +284,12 @@
 |  |
 | ------- |
 | [2605-count-anagrams](https://github.com/codesmith17/leetcode/tree/master/2605-count-anagrams) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/codesmith17/leetcode/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/codesmith17/leetcode/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
