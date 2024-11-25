@@ -10,6 +10,7 @@
 | [0500-keyboard-row](https://github.com/codesmith17/leetcode/tree/master/0500-keyboard-row) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/codesmith17/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0720-longest-word-in-dictionary](https://github.com/codesmith17/leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0787-sliding-puzzle](https://github.com/codesmith17/leetcode/tree/master/0787-sliding-puzzle) |
 | [0964-minimize-malware-spread-ii](https://github.com/codesmith17/leetcode/tree/master/0964-minimize-malware-spread-ii) |
 | [1002-maximum-width-ramp](https://github.com/codesmith17/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/codesmith17/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -229,6 +230,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/codesmith17/leetcode/tree/master/0787-sliding-puzzle) |
 | [0964-minimize-malware-spread-ii](https://github.com/codesmith17/leetcode/tree/master/0964-minimize-malware-spread-ii) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/codesmith17/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/codesmith17/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -256,6 +258,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/codesmith17/leetcode/tree/master/0787-sliding-puzzle) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/codesmith17/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/codesmith17/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/codesmith17/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
